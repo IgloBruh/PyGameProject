@@ -14,8 +14,8 @@
 
 1. **Клонируйте репозиторий:**
    ```bash
-   git clone https://github.com/ваш-username/coin-collector.git
-   cd coin-collector
+   git clone https://github.com/IgloBruh/PyGameProject.git
+   cd PyGameProject
 
 2. **Установите зависимости:**
     Убедитесь, что у вас установлен Python 3.x. Затем установите зависимости из файла requirements.txt:
@@ -24,7 +24,7 @@
 
 3. **Запустите игру:**
     ```bash
-    python coin_collector.py
+    python main.py
 **Или запустите файл main.exe**
 
 

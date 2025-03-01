@@ -20,18 +20,18 @@ Copy
    git clone https://github.com/ваш-username/coin-collector.git
    cd coin-collector
 
-Установите зависимости:
-Убедитесь, что у вас установлен Python 3.x. Затем установите зависимости из файла requirements.txt:
-bash
-pip install -r requirements.txt
+2. **Установите зависимости:**
+    Убедитесь, что у вас установлен Python 3.x. Затем установите зависимости из файла requirements.txt:
+    ```bash
+    pip install -r requirements.txt
 
-Запустите игру:
+3. **Запустите игру:**
     ```bash
     python coin_collector.py
 Или запустите файл main.exe
 
 
-Как играть
+**Как играть**
     Стрелки влево/вправо/вверх/вниз — движение персонажа.
     Собирайте монеты, чтобы увеличить счёт.
     Избегайте врагов, иначе потеряете жизнь.

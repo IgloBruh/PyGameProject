@@ -18,15 +18,15 @@ Copy
 1. **Клонируйте репозиторий:**
    ```bash
    git clone https://github.com/ваш-username/coin-collector.git
-   cd coin-collector```
+   cd coin-collector
 
     Установите зависимости:
     Убедитесь, что у вас установлен Python 3.x. Затем установите зависимости из файла requirements.txt:
-    bash
+    ```bash
     pip install -r requirements.txt
 
     Запустите игру:
-    bash
+    ```bash
     python coin_collector.py
 
 Как играть
@@ -44,9 +44,9 @@ Copy
 
     Ваше Имя
 
-        GitHub: ваш-username
+        GitHub: IgloBruh
 
-        Email: ваш-email@example.com
+        Email: asusivan2008@gmail.com
 
 Благодарности
 
